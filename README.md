@@ -1,0 +1,1 @@
+The game creates a series of tones and lights and the user is required to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or, the game is over. 
